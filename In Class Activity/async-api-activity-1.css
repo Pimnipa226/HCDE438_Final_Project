@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+    padding: 20px;
+}
+
+.post {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.comments {
+    margin-left: 20px;
+    font-size: 0.9em;
+    color: #555;
+}
