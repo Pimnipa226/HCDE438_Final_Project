@@ -25,5 +25,5 @@ const Home = () => {
         </div>
     )
 }
-
+// export
 export default Home;
