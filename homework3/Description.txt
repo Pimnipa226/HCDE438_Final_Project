@@ -1,0 +1,11 @@
+For this assignment, I was working on converting my assignment 2 project into Vite React version. My project is a gallery
+static web where users could find the art pictures by searching keywords in the search bar or click to choose the
+categories of arts they want to see then the API will fetch the images from Unplash API. The result images will appear
+by the 'Search Results' section. I was able to make the header part of the web app and the search bar
+section. However, in the search results part, I was not able to organize the result images
+I tried using grid, but it did not work properly. And another challenging I faced during this
+project is to make accordion. Therefore, the 'Categoies'  part does not have the accordion working.
+
+AI use: I used AI to help me with API in SearchBar.jsx and api.js file as it is different from the last assignment of
+how we call API.
+
